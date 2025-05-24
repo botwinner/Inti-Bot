@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5217715020508", 'Tilin', true], //el tilin
-["5217715020508", 'gay', true], //es gay
-["5218336105471"]]
+["5216942554318", 'st', true], //el tilin
+["5216942554318", 'st', true], //es gay
+["5216942554318"]]
 
-global.mods = ["5217715020508"]
-global.prems = ["5217715020508"]
+global.mods = ["5216942554318"]
+global.prems = ["5216942554318"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5217715020508", 'tilin', 1], 
-["5217715020508", 'tilinn', 1],  
-["5217715020508", 'Tilins', 1]]
+["5216942554318", 'st', 1], 
+["5216942554318", 'st', 1],  
+["5216942554318", 'st', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝗟𝗢𝗦 𝗖𝗛𝗜𝗞𝗜𝗦"
-global.author = "𝗟𝗢𝗦 𝗖𝗛𝗜𝗞𝗜𝗦"
+global.packname = "𝗟𝗮𝗯𝘂𝗯𝘂 𝗕𝗼𝘁"
+global.author = "𝗟𝗮𝗯𝘂𝗯𝘂 𝗕𝗼𝘁"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝗟𝗢𝗦 𝗖𝗛𝗜𝗞𝗜𝗦"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝗟𝗢𝗦 𝗖𝗛𝗜𝗞𝗜𝗦"
+global.gt = "𝗟𝗮𝗯𝘂𝗯𝘂 𝗕𝗼𝘁"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -157,9 +157,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗟𝗢𝗦 𝗖𝗛𝗜𝗞𝗜𝗦"
-global.igfg = "𝗟𝗢𝗦 𝗖𝗛𝗜𝗞𝗜𝗦"
-global.nomorown = "5217715020508"
+global.wm = "𝗟𝗮𝗯𝘂𝗯𝘂 𝗕𝗼𝘁"
+global.igfg = "𝗟𝗮𝗯𝘂𝗯𝘂 𝗕𝗼𝘁"
+global.nomorown = "5216942554318"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
