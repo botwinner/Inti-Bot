@@ -1,7 +1,7 @@
 {
-"name": "Tilin",
+"name": "Manía",
 "version": "1.7.0", 
-"description": "Goku Bot WhatsApp",
+"description": "Labubu Bot WhatsApp",
 "main": "index.js",
 "type": "module",
     
@@ -19,7 +19,7 @@
     
 "homepage": "https://github.com/GataNina-Li/GataBot-MD",
 "author": {
-"name": "Tilin" },
+"name": "Manía" },
     
 "repository": {
 "type": "git",
