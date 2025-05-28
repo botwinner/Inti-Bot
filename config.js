@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5216942554318", 'st', true], //el tilin
-["5216942554318", 'st', true], //es gay
-["5216942554318"]]
+["525644444444", 'st', true], //la barbie
+["525644444444", 'st', true], //es gay
+["525644444444"]]
 
-global.mods = ["5216942554318"]
-global.prems = ["5216942554318"]
+global.mods = ["525644444444"]
+global.prems = ["525644444444"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝗟𝗮𝗯𝘂𝗯𝘂 𝗕𝗼𝘁"
-global.author = "𝗟𝗮𝗯𝘂𝗯𝘂 𝗕𝗼𝘁"
+global.packname = "𝐁𝐚𝐫𝐛𝐢𝐞𝗕𝗼𝘁"
+global.author = "𝐁𝐚𝐫𝐛𝐢𝐞𝗕𝗼𝘁"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝗟𝗮𝗯𝘂𝗯𝘂 𝗕𝗼𝘁"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝗟𝗮𝗯𝘂𝗯𝘂 𝗕𝗼𝘁"
+global.gt = "𝐁𝐚𝐫𝐛𝐢𝐞𝗕𝗼𝘁"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -157,9 +157,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗟𝗮𝗯𝘂𝗯𝘂 𝗕𝗼𝘁"
-global.igfg = "𝗟𝗮𝗯𝘂𝗯𝘂 𝗕𝗼𝘁"
-global.nomorown = "5216942554318"
+global.wm = "𝐁𝐚𝐫𝐛𝐢𝐞𝗕𝗼𝘁"
+global.igfg = "𝐁𝐚𝐫𝐛𝐢𝐞𝗕𝗼𝘁"
+global.nomorown = "525644444444"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
