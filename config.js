@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["525644444444", 'st', true], //la barbie
-["525644444444", 'st', true], //es gay
-["525644444444"]]
+["525665918012", 'st', true], //la barbie
+["525665918012", 'st', true], //es gay
+["525665918012"]]
 
-global.mods = ["525644444444"]
-global.prems = ["525644444444"]
+global.mods = ["525665918012"]
+global.prems = ["525665918012"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5216942554318", 'st', 1], 
-["5216942554318", 'st', 1],  
-["5216942554318", 'st', 1]]
+["525665918012", 'st', 1], 
+["525665918012", 'st', 1],  
+["525665918012", 'st', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -159,7 +159,7 @@ global.exito = eg
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 global.wm = "𝐁𝐚𝐫𝐛𝐢𝐞𝗕𝗼𝘁"
 global.igfg = "𝐁𝐚𝐫𝐛𝐢𝐞𝗕𝗼𝘁"
-global.nomorown = "525644444444"
+global.nomorown = "525665918012"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
